@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iceice\\Documents\\semester 4\\pbo\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\TP_MOD10_1302210125.csproj",
+      "projectUniqueName": "C:\\Users\\iceice\\Documents\\semester 4\\kpl\\GITGITUB\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\TP_MOD10_1302210125.csproj",
       "projectName": "TP_MOD10_1302210125",
-      "projectPath": "C:\\Users\\iceice\\Documents\\semester 4\\pbo\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\TP_MOD10_1302210125.csproj",
+      "projectPath": "C:\\Users\\iceice\\Documents\\semester 4\\kpl\\GITGITUB\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\TP_MOD10_1302210125.csproj",
       "packagesPath": "C:\\Users\\iceice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iceice\\Documents\\semester 4\\pbo\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\obj\\",
+      "outputPath": "C:\\Users\\iceice\\Documents\\semester 4\\kpl\\GITGITUB\\TP_MOD10_1302210125\\TP_MOD10_1302210125\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iceice\\AppData\\Roaming\\NuGet\\NuGet.Config",
