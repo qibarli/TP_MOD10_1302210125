@@ -1,0 +1,15 @@
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\bin\Debug\net6.0\TP_MOD10_1302210125.exe
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\bin\Debug\net6.0\TP_MOD10_1302210125.deps.json
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\bin\Debug\net6.0\TP_MOD10_1302210125.runtimeconfig.json
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\bin\Debug\net6.0\TP_MOD10_1302210125.dll
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\bin\Debug\net6.0\TP_MOD10_1302210125.pdb
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.csproj.AssemblyReference.cache
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.AssemblyInfoInputs.cache
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.AssemblyInfo.cs
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.csproj.CoreCompileInputs.cache
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.dll
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\refint\TP_MOD10_1302210125.dll
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.pdb
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\TP_MOD10_1302210125.genruntimeconfig.cache
+C:\Users\iceice\Documents\semester 4\pbo\TP_MOD10_1302210125\TP_MOD10_1302210125\obj\Debug\net6.0\ref\TP_MOD10_1302210125.dll
